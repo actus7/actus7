@@ -1,6 +1,6 @@
-## Olá, sou o Actus7! 👋
+## Olá, sou o Alex R. Schmitt! 👋
 
-### Sobre Mim
+### Sobre
 Arquiteto de Sistemas Sênior e Líder de equipe com mais de 20 anos de experiência em Pesquisa, Desenvolvimento e Inovação. Minha paixão por tecnologia e constante atualização me mantém à frente das tendências, especialmente na área de inteligência artificial e automação de processos. Minha habilidade de comunicar conceitos técnicos de forma clara e concisa me permite trabalhar efetivamente com equipes multidisciplinares e stakeholders de negócios. Como líder, a motivação e inspiração são partes integrantes do meu estilo de gestão, definindo metas claras, resolvendo conflitos com empatia e fomentando um ambiente colaborativo de alto desempenho.
 
 ### 🏆 Realizações Profissionais 🏆
@@ -23,8 +23,7 @@ Arquiteto de Sistemas Sênior e Líder de equipe com mais de 20 anos de experiê
 Dedico meu tempo livre ao estudo de IA, focando em aprendizado de máquina, visão computacional, processamento de linguagem natural, robótica, assistentes virtuais, ética da IA e impacto da IA na sociedade. Exploro constantemente novas técnicas e ferramentas para manter-me atualizado e aplicar esses conhecimentos em projetos pessoais e profissionais.
 
 ### 📫 Como entrar em contato comigo
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- [Email](mailto:seuemail@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/alexrobschmitt/))
 
 ### ⚡ Curiosidades
 - Sou apaixonado por tecnologia e inovação.
